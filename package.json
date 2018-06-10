@@ -1,0 +1,16 @@
+{
+  "name": "odata",
+  "version": "0.0.1",
+  "description": "A re-usable odata service wrap around HttpModule for Angular projects",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "odata",
+    "rest",
+    "http"
+  ],
+  "author": "Gus Crawford",
+  "license": "MIT"
+}
